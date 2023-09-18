@@ -10,10 +10,7 @@ const PriceOptions = () => {
             "Access to gym facilities",
             "Unlimited use of cardio equipment",
             "Free weights and resistance machines",
-            "Locker room access",
-            "Discounted personal training sessions",
-            "Monthly fitness assessment",
-            "24/7 access"
+            "Locker room access"
           ],
           "price": 30.00
         },
@@ -24,8 +21,6 @@ const PriceOptions = () => {
             "All Basic Membership features",
             "Access to group fitness classes",
             "Sauna and steam room access",
-            "Nutritional consultation",
-            "Towel service",
             "Access to sports courts (tennis, basketball)",
             "Guest privileges (3 times/month)"
           ],
